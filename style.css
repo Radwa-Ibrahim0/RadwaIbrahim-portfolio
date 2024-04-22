@@ -119,6 +119,10 @@ h2 {
   flex-direction: row;
   flex-flow: wrap;
 }
+.skills h3 {
+  font-size: 25px;
+  margin-left: 30px;
+}
 
 .skill {
   border: 1px solid gray;
@@ -186,6 +190,29 @@ h2 {
   font-size: 20px;
   margin-left: 30px;
 }
+
+/* Certifications */
+.certifications-container {
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.certifications-container hr {
+  border: 1px solid lightgray;
+  width: 75%;
+  margin-left: 5cm;
+}
+
+.certifications-card {
+  margin: 0 15px 15px 30px;
+  padding-bottom: 5px;
+}
+
+.certifications-card li {
+  font-size: 20px;
+  margin-left: 30px;
+}
+
 
 /* Recommendations */
 
